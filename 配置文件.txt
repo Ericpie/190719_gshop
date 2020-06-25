@@ -1,0 +1,4 @@
+yarn add lib-flexible  postcss-px2rem -D
+ yarn add stylus stylus-loader -D
+yarn add vue-router
+
